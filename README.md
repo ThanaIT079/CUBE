@@ -1,6 +1,4 @@
  ## Game : Cube 
-  	
-Play : (link)
 
 Cube เป็น [Arcade game](https://en.wikipedia.org/wiki/Arcade_game) 
 - เเนว  [Shoot 'em up](https://en.wikipedia.org/wiki/Shoot_%27em_up) 
@@ -9,12 +7,30 @@ Cube เป็น [Arcade game](https://en.wikipedia.org/wiki/Arcade_game)
 
 
 ## How to play 
+<p align="center">
+  <img width="400" src="Chapter/01.PNG">
+</p>
+
+<p align="center">
+  <img width="400" src="Chapter/02.PNG">
+</p>
+
+<p align="center">
+  <img width="400" src="Chapter/03.PNG">
+</p>
+
+
 1. บังคับด้วยการ กดแป้นลูกศรขึ้น, ลง(Arrow up & down)  เเละ ยิงด้วยการกด สเปทบาร์(Space bar)
 2. จะได้รับเเต้ม 100 เเต้ม ทุกๆมอนสเตอร์ 1 ตัวที่กำจัดได้
 3. จะผ่านด่านเมื่อเเต้มถึงค่าที่กำหนด เเละจะเข้าสู่ด่านบอส ให้ยิง มอนสเตอร์ เเละ บอส จนกว่าจะผ่านด่าน
 4. หาก มีมอนสเตอร์ หรือ บอส ผ่านมาถึงฝั่งเดียวกับผู้เล่นเกมจะจบทันที
 
 ## Player and Monsters
+
+![G11](https://github.com/ThanaIT079/CUBE/blob/master/G11/S1.png)
+ ![Enermy01](https://github.com/ThanaIT079/CUBE/blob/master/Enermy/E1.png)
+  ![Enermy02](https://github.com/ThanaIT079/CUBE/blob/master/Enermy/E2.png)
+   ![Uroboros](https://github.com/ThanaIT079/CUBE/blob/master/Enermy/s1.png)
 
 
 ## Reference
